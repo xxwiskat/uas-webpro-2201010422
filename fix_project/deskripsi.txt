@@ -1,0 +1,9 @@
+Nama: I Made Agus Arya Dwi Prayoga
+NIM: 2201010422
+Kelas: TI - Mdi M
+
+Disini saya membuat program mengelola data film yang terinspirasi dari idlix.com, pertama akan diarahkan ke halaman login, jika langsung memasuki halaman index, tetap saja akan diarahkan menuju ke halaman login begitu pula dengan halaman - halaman yang lainnya kecuali halaman home, disini saya menggunakan konsep create, update, read, delete.
+
+Langkah - langkah untuk memasuki web project saya yaitu:
+	1. masuk ke page localhost/fix_project/database.php
+	2. Setelah itu masuk ke page localhost/fix_project/index.php
